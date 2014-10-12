@@ -6,6 +6,7 @@
 ## at https://class.coursera.org/exdata-007/forum/thread?thread_id=19#post-276
 ## also CTA Steven Barkin at https://class.coursera.org/exdata-007/forum/thread?thread_id=18#post-85
 
+## the source command ensures that all code from get-data.R is run here!
 if(!exists("hpc")) source("get-data.R")
 
 ## open png, write to it and close.
